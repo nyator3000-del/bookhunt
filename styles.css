@@ -1,0 +1,3 @@
+@tailwind base; @tailwind components; @tailwind utilities;
+body { @apply bg-gradient-to-b from-[#071027] to-[#021024]; } 
+select, input, textarea { @apply bg-white/90; }
